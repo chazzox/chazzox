@@ -5,4 +5,4 @@
 ## What I'm currently working on:
 - Hydrova: Reddit is slow, so im speeding it up a little. Hydrova is a compelte rewrite of reddit using gatsby and typescript
 ## What I'm learning:
-- I'm learning the in and outs of reactJS at the moment but plan on taking a deep dive into lower level languages soon
+- React and Svelte. Will probably be taking a look into swift and Ruby on Rails soon
