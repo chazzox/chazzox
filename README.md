@@ -3,6 +3,6 @@
 ### My name is charlie and i make things occasionally
 
 ## What I'm currently working on:
-- Hydrova: Reddit is slow, so im speeding it up a little. Hydrova is a compelte rewrite of reddit using gatsby and typescript
+- Hydrova: Reddit is slow, so im speeding it up a little. Hydrova is a compelte rewrite of the reddit frontend using gatsby and typescript
 ## What I'm learning:
 - React and Svelte. Will probably be taking a look into swift and java soon
