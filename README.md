@@ -4,5 +4,9 @@
 
 ## What I'm currently working on:
 - Hydrova: Reddit is slow, so im speeding it up a little. Hydrova is a compelte rewrite of the reddit frontend using gatsby and typescript
+
+- virtuoso-tree: This is a typscript libary im working on for Hydrova, its similar to [react-vtree](https://github.com/Lodin/react-vtree) but uses a different virtualisation libary and aims to have a cleaner codebase and to be easier for devs to understand.
+
 ## What I'm learning:
+
 - React and Svelte. Will probably be taking a look into swift and java soon
