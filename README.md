@@ -9,4 +9,4 @@
 
 ## What I'm learning:
 
-- React, Svelte and C++. I'll probably be taking a look into swift and java soon
+- React, Svelte, Solid and C++. I'll probably be taking a look into swift and java soon
