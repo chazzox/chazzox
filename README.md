@@ -9,4 +9,4 @@
 
 ## What I'm learning:
 
-- React, Svelte, Solid and C++. I'll probably be taking a look into swift and java soon
+- [React](https://github.com/facebook/react), [Svelte](https://github.com/sveltejs/svelte), [Solid](https://github.com/solidui/solid) and C++. I'll probably be taking a look into swift and java soon
